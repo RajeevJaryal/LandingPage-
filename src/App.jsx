@@ -1,12 +1,12 @@
 import { useState } from 'react'
 import LandingPage from './landingpage/LandingPage'
-import ExperienceSection from './ExperienceSection';
-import ConversationsSection from './ConversationsSection';
+import ExperienceSection from './landingpage/ExperienceSection';
+import ConversationsSection from './landingpage/ConversationsSection';
 import './App.css'
-import TemplateSection from './TemplateSection';
-import TestimonialSection from './TestimonialSection';
-import ProductivityCTA from './ProductivityCTA';
-import FooterSection from './FooterSection';
+import TemplateSection from './landingpage/TemplateSection';
+import TestimonialSection from './landingpage/TestimonialSection';
+import ProductivityCTA from './landingpage/ProductivityCTA';
+import FooterSection from './landingpage/FooterSection';
 
 function App() {
  return(

@@ -1,6 +1,6 @@
 import React from "react";
 import { ArrowUpRight, Quote } from "lucide-react";
-import PersonImage from "./assets/testimonial-person.png";
+import PersonImage from "../assets/testimonial-person.png";
 
 const testimonial = {
   label: "Client Testimonial",
